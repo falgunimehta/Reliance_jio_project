@@ -18,3 +18,7 @@ Description of ‘Department’ Table:
 • Dept_Code: A unique identifier for each department in the organization, used for tracking and referencing department information.
 • Dept_Name: The name of the department, used for identifying and categorizing departments within the organization.
 • Dept_Budget: The allocated budget for the department in Indian Rupees (INR), used for tracking and managing departmental expenses and finances. The budget may be used for employee salaries, equipment, training, and other departmental needs.
+
+Tools used:
+
+MySQL
